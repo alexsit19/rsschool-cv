@@ -39,3 +39,24 @@ class FragmentMoviesListViewModel(private val movieListInteractor: MovieListInte
     }
 }
 ```
+
+## Experience
+
+* Project from Android Academy in process:
+[https://github.com/alexsit19/MovieApp](https://github.com/alexsit19/MovieApp)
+
+* Calculator like a Samsung App
+[https://github.com/alexsit19/Calculator_java](https://github.com/alexsit19/Calculator_java)
+
+* Puzzle-game from my childhood (LibGdx, java). I don't see analogs of this game. But my friends call it 2d rubik cube
+ [https://github.com/alexsit19/RotateAndWinGame](https://github.com/alexsit19/RotateAndWinGame) : [https://www.youtube.com/watch?v=cAeiRjyP63k](https://www.youtube.com/watch?v=cAeiRjyP63k)
+
+## Education
+
+* Android Academy Fundamentals
+* Java Cources from ITVDN (author Eugeniy Tyhonov)
+* android.developers.com CodeLabs
+* BSUIR (Faculty of Radioengineering and Electronics)
+
+## English
+* A1 or A2
